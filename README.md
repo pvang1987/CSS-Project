@@ -1,4 +1,5 @@
 # CSS-Project
+<img src="./assets/images/README_Img.jpg"">
 
 # Hey! It's my portfolio!
 This website will eventually provide actual information about my work and provide information about me and my journey in the coding world! Current sections include an about me, list of projects and ways to communicate with me.
