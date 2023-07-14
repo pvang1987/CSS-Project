@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* Defines custom color variables */
 :root {
     --black: black;
     --neutral: rgb(185, 164, 173);
@@ -11,11 +12,13 @@
     --pink: palevioletred;
 }
 
+/* Styles selected text */
 ::selection {
     background-color: var(--neutral);
     color: var(--black);
 }
 
+/* Styles body content */
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.75rem;
@@ -24,6 +27,7 @@ body {
     background-color: var(--pink);
 }
 
+/* Adds heading styles */
 h1,
 h2,
 h3,
@@ -64,10 +68,7 @@ p {
     margin-bottom: 1rem;
 }
 
-code {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
+/* Header Style */
 header {
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
@@ -84,6 +85,7 @@ header .quote {
     color: var(--neutral);
 }
 
+/* Adds style to the navigation links */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -111,6 +113,7 @@ p {
     font-size: 16px;
 }
 
+/* Adds hero image styling */
 .hero {
     height: 250px;
     width: 100%;
@@ -120,6 +123,7 @@ p {
     background-position: center;
 }
 
+/* Adds section styles */
 section {
     width: 95%;
     display: inline-block;
@@ -127,7 +131,7 @@ section {
     margin-right: 20px;
 }
 
-
+/* Adds footer style */
 footer {
     padding: 30px;
     clear: both;
@@ -135,6 +139,7 @@ footer {
     text-align: center;
 }
 
+/* Customizes flex container code to display images a certain way */
 .flex-container {
     display: flex;
     flex-wrap: wrap;
