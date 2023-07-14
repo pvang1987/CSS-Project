@@ -19,3 +19,4 @@ If you want to see this website on your own computer, follow these simple steps:
 2. Open the project folder and find the file named: index.html.
 3. Double-click on: index.html to open it in your web browser.
 
+Here's the live deployment link: https://pvang1987.github.io/CSS-Project/
