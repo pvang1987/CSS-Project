@@ -20,10 +20,10 @@ If you want to see this website on your own computer, follow these simple steps:
 3. Double-click on: index.html to open it in your web browser.
 
 ## Resources
-http://www.Google.com/ (Everything)
-https://www.vecteezy.com/ (Avatar Image)
-https://www.pexels.com/search/coding/ (Project Images)
-Course materials
-Tutoring - One of my code wasn't working properly
+1. http://www.Google.com/ (Everything)
+2. https://www.vecteezy.com/ (Avatar Image)
+3. https://www.pexels.com/search/coding/ (Project Images)
+4. Course materials
+5. Tutoring - One of my code wasn't working properly
 
 ** Here's the live deployment link: https://pvang1987.github.io/CSS-Project/
